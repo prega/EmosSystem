@@ -1,0 +1,20 @@
+!SESSION 2012-11-15 13:36:07.328 -----------------------------------------------
+eclipse.buildId=I20120127-1145
+java.version=1.7.0_07
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=fr_CA
+Framework arguments:  -product org.eclipse.epp.package.java.product
+Command-line arguments:  -os win32 -ws win32 -arch x86 -product org.eclipse.epp.package.java.product
+
+!ENTRY org.eclipse.osgi 2 1 2012-11-15 13:37:00.406
+!MESSAGE NLS unused message: ValidatableWizardDialog_Validate_Button_Label in: org.eclipse.mylyn.internal.commons.workbench.messages
+!SESSION 2012-11-22 08:35:03.531 -----------------------------------------------
+eclipse.buildId=I20120127-1145
+java.version=1.7.0_07
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=fr_CA
+Framework arguments:  -product org.eclipse.epp.package.java.product
+Command-line arguments:  -os win32 -ws win32 -arch x86 -product org.eclipse.epp.package.java.product
+
+!ENTRY org.eclipse.osgi 2 1 2012-11-22 08:35:38.703
+!MESSAGE NLS unused message: ValidatableWizardDialog_Validate_Button_Label in: org.eclipse.mylyn.internal.commons.workbench.messages
